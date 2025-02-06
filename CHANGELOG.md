@@ -2,17 +2,39 @@
 
 # Changelog
 
-# [1.28.0](https://github.com/lobehub/lobe-chat-agents/compare/v1.27.0...v1.28.0) (2025-02-04)
+# [1.29.0](https://github.com/lobehub/lobe-chat-agents/compare/v1.28.0...v1.29.0) (2025-02-06)
 
 
 ### ✨ Features
 
-* **agent**: Python-genius [@novaspivack](https://github.com/novaspivack), closes [#1261](https://github.com/lobehub/lobe-chat-agents/issues/1261) [#1227](https://github.com/lobehub/lobe-chat-agents/issues/1227) ([01f60be](https://github.com/lobehub/lobe-chat-agents/commit/01f60be))
+* **agent**: Allinone-v-1 @AXuanCreator, closes [#1271](https://github.com/lobehub/lobe-chat-agents/issues/1271) [#1266](https://github.com/lobehub/lobe-chat-agents/issues/1266) ([27bb86b](https://github.com/lobehub/lobe-chat-agents/commit/27bb86b))
+* **agent**: Anxing-ai-title [@zmn817](https://github.com/zmn817), closes [#1127](https://github.com/lobehub/lobe-chat-agents/issues/1127) [#1099](https://github.com/lobehub/lobe-chat-agents/issues/1099) ([e2a4928](https://github.com/lobehub/lobe-chat-agents/commit/e2a4928))
+* **agent**: Bad-language-helper @Guducat, closes [#1270](https://github.com/lobehub/lobe-chat-agents/issues/1270) [#1264](https://github.com/lobehub/lobe-chat-agents/issues/1264) ([a403d04](https://github.com/lobehub/lobe-chat-agents/commit/a403d04))
+* **agent**: Deep-thinker [@prolapser](https://github.com/prolapser), closes [#1268](https://github.com/lobehub/lobe-chat-agents/issues/1268) [#1267](https://github.com/lobehub/lobe-chat-agents/issues/1267) ([3d67919](https://github.com/lobehub/lobe-chat-agents/commit/3d67919))
+* **agent**: Fate-researcher @Jack980506, closes [#1273](https://github.com/lobehub/lobe-chat-agents/issues/1273) [#1249](https://github.com/lobehub/lobe-chat-agents/issues/1249) ([517e4f8](https://github.com/lobehub/lobe-chat-agents/commit/517e4f8))
+* **agent**: Graham-investmentassi [@farsightlin](https://github.com/farsightlin), closes [#1272](https://github.com/lobehub/lobe-chat-agents/issues/1272) [#1207](https://github.com/lobehub/lobe-chat-agents/issues/1207) ([6afc672](https://github.com/lobehub/lobe-chat-agents/commit/6afc672))
+* **agent**: Tieba-zuichou-laoge [@east4ming](https://github.com/east4ming), closes [#1269](https://github.com/lobehub/lobe-chat-agents/issues/1269) [#1265](https://github.com/lobehub/lobe-chat-agents/issues/1265) ([ccf4004](https://github.com/lobehub/lobe-chat-agents/commit/ccf4004))
 
 
 ### 🎫 Chores
 
-* Auto format and add i18n json files ([09ce295](https://github.com/lobehub/lobe-chat-agents/commit/09ce295))
+* Auto format and add i18n json files ([ab23d46](https://github.com/lobehub/lobe-chat-agents/commit/ab23d46))
+* Auto format and add i18n json files ([05c96d7](https://github.com/lobehub/lobe-chat-agents/commit/05c96d7))
+
+
+### 📝 Documentation
+
+* Update i18n ([548aa74](https://github.com/lobehub/lobe-chat-agents/commit/548aa74))
+
+# [1.28.0](https://github.com/lobehub/lobe-chat-agents/compare/v1.27.0...v1.28.0) (2025-02-04)
+
+### ✨ Features
+
+- **agent**: Python-genius [@novaspivack](https://github.com/novaspivack), closes [#1261](https://github.com/lobehub/lobe-chat-agents/issues/1261) [#1227](https://github.com/lobehub/lobe-chat-agents/issues/1227) ([01f60be](https://github.com/lobehub/lobe-chat-agents/commit/01f60be))
+
+### 🎫 Chores
+
+- Auto format and add i18n json files ([09ce295](https://github.com/lobehub/lobe-chat-agents/commit/09ce295))
 
 # [1.27.0](https://github.com/lobehub/lobe-chat-agents/compare/v1.26.0...v1.27.0) (2025-02-04)
 
